@@ -1,11 +1,11 @@
 <div align="center">
 
-# &nbsp;&nbsp;&nbsp;G&thinsp;L&thinsp;O&thinsp;R&thinsp;B&nbsp;&nbsp;&nbsp;
+# Glorb
 
 </div>
 
 <p align="center">
-  <img src="assets/glorb-poster.png" alt="Glorb poster" width="600">
+  <img src="assets/glorb-poster.png" alt="Glorb poster" width="800">
 </p>
 
 A macOS menu-bar Pomodoro that actually notices when you drift — and does something about it.
@@ -20,12 +20,12 @@ When either channel decides you've drifted, Glorb escalates through a configurab
 An optional Arduino companion (an SSD1306 OLED pair) renders Glorb's eyes over serial — blinking, smiling, or closed depending on session state.
 
 <p align="center">
-  <img src="assets/glorb-demo.png" alt="Glorb demo" width="600">
+  <img src="assets/glorb-demo.png" alt="Glorb demo" width="800">
 </p>
 
 <p align="center">
   <a href="https://github.com/oue2x2/glorb-timer/releases/latest">
-    <img src="assets/download-macos.svg" alt="Download for macOS" width="280">
+    <img src="assets/download-macos.svg" alt="Download for macOS" width="380">
   </a>
 </p>
 
