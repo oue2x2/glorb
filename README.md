@@ -1,4 +1,12 @@
-# Glorb
+<div align="center">
+
+# &nbsp;&nbsp;&nbsp;G&thinsp;L&thinsp;O&thinsp;R&thinsp;B&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<p align="center">
+  <img src="assets/glorb-poster.png" alt="Glorb poster" width="600">
+</p>
 
 A macOS menu-bar Pomodoro that actually notices when you drift — and does something about it.
 
@@ -10,6 +18,16 @@ Set a timer, type what you're working on, and start. Glorb watches two channels 
 When either channel decides you've drifted, Glorb escalates through a configurable path — soft chimes, notifications, screen dim, full-screen vignette — tuned to your onboarding profile (Weak/Strong × Neurotypical/ADHD). Refocus, and everything quietly clears.
 
 An optional Arduino companion (an SSD1306 OLED pair) renders Glorb's eyes over serial — blinking, smiling, or closed depending on session state.
+
+<p align="center">
+  <img src="assets/glorb-poster.png" alt="Glorb poster" width="600">
+</p>
+
+<p align="center">
+  <a href="https://github.com/shawnwang38/glorb-timer/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_Download_Glorb-FF6B35?style=for-the-badge&logoColor=white" alt="Download Glorb">
+  </a>
+</p>
 
 ## Stack
 
